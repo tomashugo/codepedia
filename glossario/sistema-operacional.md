@@ -13,3 +13,5 @@ Entre as diversas funções de um sistema operacional podemos citar:
 * Mapeamento do sistema de arquivos.
 * Gerencia recursos do sistema como memória, cpu e espaço em disco.
 * É a principal interface entre o hardware e o usuário final.
+* Gerenciamento de usuários.
+* ...

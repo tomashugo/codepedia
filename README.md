@@ -6,7 +6,7 @@ A linguagem a ser utilizada neste projeto é o **Português** pois a ideia dele 
 
 ## Conteúdo
 
-# Linux
+### Linux
 
 Nesta seção estará concentrado todo o conteúdo relacionado a este Sistema Operacional.
 

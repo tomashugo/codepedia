@@ -8,7 +8,7 @@ A linguagem a ser utilizada neste projeto é o **Português** pois a ideia dele 
 
 ### Linux
 
-Nesta seção estará concentrado todo o conteúdo relacionado a este [Sistema Operacional](termos/sistema-operacional.md).
+Nesta seção estará concentrado todo o conteúdo relacionado a este [Sistema Operacional](glossario/sistema-operacional.md).
 
 * [Comandos Linux](linux/comandos-linux.md)
 * [Siglas](linux/siglas.md)

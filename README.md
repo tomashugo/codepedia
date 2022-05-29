@@ -6,6 +6,11 @@ A linguagem a ser utilizada neste projeto é o **Português** pois a ideia dele 
 
 ## Conteúdo
 
+### Cloud Computing
+
+* [O que é Cloud Computing](cloud-computing/what-is.md)
+* [Amazon Web Services - AWS](cloud-computing/aws.md)
+
 ### Linux
 
 Nesta seção estará concentrado todo o conteúdo relacionado a este [Sistema Operacional](glossario/sistema-operacional.md).
@@ -13,7 +18,6 @@ Nesta seção estará concentrado todo o conteúdo relacionado a este [Sistema O
 * [Comandos Linux](linux/comandos-linux.md)
 * [Siglas](linux/siglas.md)
 
-### Cloud Computing
+### Programação
 
-* [O que é Cloud Computing](cloud-computing/what-is.md)
-* [Amazon Web Services - AWS](cloud-computing/aws.md)
+* [Compiladores](compiladores/compiladores.md)

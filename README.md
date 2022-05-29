@@ -15,4 +15,5 @@ Nesta seção estará concentrado todo o conteúdo relacionado a este [Sistema O
 
 ### Cloud Computing
 
+* [O que é Cloud Computing](cloud-computing/what-is.md)
 * [Amazon Web Services - AWS](cloud-computing/aws.md)

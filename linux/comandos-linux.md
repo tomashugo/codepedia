@@ -4,7 +4,7 @@ description: 'Principais comandos do Linux, divididos por categoria'
 
 # Comandos Linux
 
-## Manipulação de arquivos
+## Manipulação de arquivos e diretórios
 
 * `tr` - substitui ou delete caracteres. a entrada de caracteres deve vir via pipe.
 * `cut` - recorta caracteres de uma entrada de texto.
@@ -12,6 +12,11 @@ description: 'Principais comandos do Linux, divididos por categoria'
 * `grep` - fazer busca por padrões de expressão regular dentro de um arquivo ou stream de texto.
 * `egrep` - fazer busca por padrões de expressão regular estendida dentro de um arquivo ou stream de texto \(entende os caracteres especiais\).
 * `touch [nome.ext]` - cria um arquivo vazio com o nome.ext informado.
+* `ls` - este comando executado sem parâmetros mostra o conteúdo do diretório atual. caso contrário, mostra o conteúdo do diretório passado como parâmetro.
+* `cd [dir]` - entra no diretório passado como parâmetro. caso seja executado sem parâmetros, e muda para o diretório home do usuários atual.
+* `cp <arquivo destino>` - copia o arquivo passado como parâmetro para um destino. caso o destino seja um diretório, cria uma cópia do arquivo dentro daquele diretório.
+* `mv <arquivo destino>` - move o arquivo passado como parâmetro para um destino. caso o destino seja um diretório, move o arquivo para dentro do diretório passado. como o Linux não tem comando de renomear, este comando pode também ser utilizado para este fim.
+* `more <arquivo>` - use este comando para ler um arquivo, passando como argumento o caminho do arquivo. o arquivo irá preencher uma tela de terminal e você pode realizar paginação do arquivo apertando a tecla espaço.
 
 ## Comandos do ambiente bash
 
@@ -24,6 +29,7 @@ description: 'Principais comandos do Linux, divididos por categoria'
 * `tee` - mostra na tela o que está sendo redirecionado para um arquivo de saída.
 * `xargs -n 1` - recebe argumentos a partir do pipe e executa um comando para cada linha.
 * `tmux` - gerencia múltiplos terminais.
+* `clear` - este comando limpa o seu terminal.
 
 ## Comandos de gerenciamento de processos
 
